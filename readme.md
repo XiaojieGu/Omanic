@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1><a href="https://arxiv.org/abs/2603.16654" style="color:#68edcb">Omanic: Towards Step-wise Evaluation of Multi-hop Reasoning in Large Language Models</a></h1>
+<h1><a href="https://arxiv.org/pdf/2603.16654" style="color:#68edcb">Omanic: Towards Step-wise Evaluation of Multi-hop Reasoning in Large Language Models</a></h1>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.16654-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2603.16654)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange?style=plastic)](https://huggingface.co/datasets/li-lab/Omanic)
