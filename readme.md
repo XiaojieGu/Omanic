@@ -69,7 +69,7 @@ llamafactory-cli train examples/train_lora/llama70B_omanic.yaml
 ' > train_llama70B_omanic.log 2> train_llama70B_omanic.err < /dev/null &
 ```
 
-For `Qwen/Qwen3-8B`
+For `Qwen3-8B`
 ```bash
 nohup bash -c '
 module load cuda/12.2.2
