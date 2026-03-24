@@ -101,7 +101,7 @@ nohup bash examples/grpo_trainer/run_qwen3-8b_omanic.sh > grpo_train.log 2>&1 < 
 
 ## Eval
 
-For GPU-based evaluation
+### For GPU-based evaluation
 
 ### Llama-3.3-70B
 
@@ -130,7 +130,7 @@ python eval/local_eval.py \
   --batch-size 256
 ```
 
-For API-based evaluation
+### For API-based evaluation
 
 Set your OpenRouter API key in the shell before running the script:
 
