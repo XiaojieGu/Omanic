@@ -118,7 +118,7 @@ python eval/local_eval.py \
 
 Use `--mode cot` if you want chain-of-thought style evaluation.
 
-### Qwen/Qwen3-8B
+### Qwen3-8B
 
 This evaluates the full fine-tuned model directly without LoRA merge.
 
