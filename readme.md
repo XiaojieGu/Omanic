@@ -172,6 +172,11 @@ python eval/open_eval.py \
 ```
 
 
+## Contact
+
+For any inquiries or possible collaboration, please reach out at **peettherapynoys@gmail.com**
+
+
 
 ## Citation
 
