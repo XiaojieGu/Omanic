@@ -10,7 +10,7 @@
 
 ## Environment Setup
 
-#### SFT (`omanic_sft`)
+### SFT (`omanic_sft`)
 
 ```bash
 bash environment/setup_omanic_sft_env.sh
