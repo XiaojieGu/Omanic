@@ -186,7 +186,7 @@ If you find Omanic useful for your research and applications, please cite:
 @article{gu2026omanic,
   title={Omanic: Towards Step-wise Evaluation of Multi-hop Reasoning in Large Language Models},
   author={Gu, Xiaojie and Tong, Sherry T and Feng, Aosong and Han, Sophia Simeng and Lu, Jinghui and Chen, Yingjian and Iwasawa, Yusuke and Matsuo, Yutaka and Park, Chanjun and Ying, Rex and Li, Irene},
-  journal={arXiv preprint arXiv:2603.16654},
+ booktitle={Findings of EMNLP},
   year={2026}
 }
 ```
